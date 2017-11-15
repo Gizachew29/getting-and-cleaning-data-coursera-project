@@ -4,10 +4,10 @@ The purpose of this project is to demonstrate the ability to collect, work with,
 
 ### This repository contains the following:
 
-- `README.md`, which provides an overview of the project and data set
-- `CodeBook.md`, which describes the conents of the data set (data, variables, and transformations)
-- `run_analysis.R`, an R script that was used to download the original data and create the `tidy_data.txt`
-- `tidy_data.txt`, contains the final data from `run_analysis.R`
+- `README.md` which provides an overview of the project and data set
+- `CodeBook.md` which describes the conents of the data set (data, variables, and transformations)
+- `run_analysis.R` an R script that was used to download the original data and create the `tidy_data.txt`
+- `tidy_data.txt` contains the final data from `run_analysis.R`
 
 Please see `CodeBook.md` for details pertaining to the variables and transformations on `tidy_data.txt`
 
@@ -21,6 +21,6 @@ The original data set was obtained from the UCI Machine Learning Repository [Hum
 
 ### Notes
 
-`run_analysis.R` was run on Windows 10 64-bit edition using R version 3.4.2 (2017-09-28)
+`run_analysis.R` was run on Windows 10 64-bit edition using R version 3.4.2
 
 The script require the `data.table` package (version 1.10.4.3 was used) and `plyr` package (version 1.8.4 was used)
