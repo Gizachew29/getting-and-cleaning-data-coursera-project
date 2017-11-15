@@ -9,7 +9,7 @@ The purpose of this project is to demonstrate the ability to collect, work with,
 - `run_analysis.R` an R script that was used to download the original data and create the `tidy_data.txt`.
 - `tidy_data.txt` contains the final data from `run_analysis.R`.
 
-Please see `CodeBook.md` for details pertaining to the variables and transformations on `tidy_data.txt`
+Please see `CodeBook.md` for details pertaining to the variables and transformations on `tidy_data.txt`.
 
 ### Study Design
 
@@ -21,6 +21,6 @@ The original data set was obtained from the UCI Machine Learning Repository [Hum
 
 ### Notes
 
-`run_analysis.R` was run on Windows 10 64-bit edition using R version 3.4.2
+`run_analysis.R` was run on Windows 10 64-bit edition using R version 3.4.2.
 
-The script require the `data.table` package (version 1.10.4.3 was used) and `plyr` package (version 1.8.4 was used)
+The script require the `data.table` package (version 1.10.4.3 was used) and `plyr` package (version 1.8.4 was used).
