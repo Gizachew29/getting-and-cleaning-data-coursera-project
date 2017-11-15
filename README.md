@@ -4,8 +4,8 @@ The purpose of this project is to demonstrate the ability to collect, work with,
 
 ### This repository contains the following:
 
-- `README.md` which provides an overview of the project and data set
-- `CodeBook.md` which describes the conents of the data set (data, variables, and transformations)
+- `README.md` provides an overview of the project and data set
+- `CodeBook.md` describes the conents of the data set (data, variables, and transformations)
 - `run_analysis.R` an R script that was used to download the original data and create the `tidy_data.txt`
 - `tidy_data.txt` contains the final data from `run_analysis.R`
 
